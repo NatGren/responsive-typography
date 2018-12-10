@@ -21,7 +21,8 @@ html {
 
 body {
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.35;
+  padding: 0 1rem;
 }
 
 article {
@@ -48,9 +49,9 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
-  margin: 1.5rem 0 1.5rem;
+  margin: 1.4rem 0 1.5rem;
   padding: 0;
-  line-height: 1.5rem;
+  line-height: 1.4rem;
   hanging-punctuation: first;
   text-align: left;
 }
