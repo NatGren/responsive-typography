@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Crimson Text", serif;
 
   color: #222;
 }
@@ -47,6 +48,11 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  margin: 1.5rem 0 1.5rem;
+  padding: 0;
+  line-height: 1.5rem;
+  hanging-punctuation: first;
+  text-align: left;
 }
 
 .quote {
@@ -73,7 +79,7 @@ margin-bottom: 1.3rem;
 @media only screen and (min-width: 38em) {
 
   html {
-    line-height: 1.5;
+    line-height: 1.4;
     font-size: 110%
   }
 
@@ -104,7 +110,7 @@ margin-bottom: 1.3rem;
 
   html {
     line-height: 1.5;
-    font-size: 110%;
+    font-size: 120%;
   }
 
   body {
@@ -125,6 +131,6 @@ margin-bottom: 1.3rem;
 @media only screen and (min-width: 90em) {
 
   html {
-    font-size: 110%;
+    font-size: 130%;
   }
 }
