@@ -65,7 +65,7 @@ margin: 0 0 1.3rem;
 }
 
 h1 {
-margin: 1.5rem 0 .3rem;
+margin: 1.65rem 0 .3rem;
 }
 
 article p {
@@ -74,7 +74,7 @@ margin: 0 0 1.3rem;
 
 article ol {
 margin-left: -1.5rem;
-margin-bottom: 1.3rem;
+margin-bottom: 1.2rem;
 }
 
 @media only screen and (min-width: 38em) {
@@ -85,24 +85,24 @@ margin-bottom: 1.3rem;
   }
 
   h1 {
-    margin: 1.5rem 0 .5rem;
+    margin: 1.8rem 0 .5rem;
   }
 
   blockquote {
-    margin: -3rem 0 1.5rem;
+    margin: -.3rem 0 1.5rem;
     padding-left: 5rem;
   }
 
   ol {
-    margin-left: -1.5rem;
+    margin-left: -1.4rem;
     margin-bottom: 1.5rem;
     margin-top: -.5rem;
     line-height: 1.4;
   }
 
   p {
-    margin-bottom: 1.5rem;
-    padding-bottom: .5rem;
+    margin-bottom: 1.4rem;
+    padding-bottom: .55rem;
   }
 
 }
@@ -119,7 +119,7 @@ margin-bottom: 1.3rem;
   }
 
   h1 {
-    margin: 2rem 0 5rem;
+    margin: 2rem 0 .5rem;
   }
 
   p {
