@@ -62,27 +62,27 @@ blockquote {
 }
 
 header {
-margin: 0 0 1.25rem;
+  margin: 0 0 1.25rem;
 }
 
 h1 {
-margin: 1.7rem 0 .25rem;
+  margin: 1.7rem 0 .25rem;
 }
 
 article p {
-margin: 0 0 1.3rem;
+  margin: 0 0 1.3rem;
 }
 
 article ol {
-margin-left: -1.5rem;
-margin-bottom: 1.2rem;
+  margin-left: -1.5rem;
+  margin-bottom: 1.2rem;
 }
 
 @media only screen and (min-width: 38em) {
 
   html {
     line-height: 1.4;
-    font-size: 110%
+    font-size: 110%;
   }
 
   h1 {
@@ -135,4 +135,5 @@ margin-bottom: 1.2rem;
   html {
     font-size: 130%;
   }
+
 }
