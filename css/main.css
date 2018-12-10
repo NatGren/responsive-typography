@@ -18,6 +18,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+  line-height: 1.5;
+}
+
 article {
   max-width: 43em;
 }
@@ -46,4 +51,20 @@ blockquote {
 
 .quote {
   color: #999;
+}
+
+header {
+margin: 0;
+}
+
+h1 {
+margin: 0;
+}
+
+article p {
+margin: 0;
+}
+
+article ol {
+margin: 0;
 }
