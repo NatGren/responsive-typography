@@ -72,6 +72,29 @@ margin-bottom: 1.3rem;
 
 @media only screen and (min-width: 38em) {
 
+  html {
+    line-height: 1.5;
+    font-size: 110%
+  }
+
+  h1 {
+    margin: 1.5rem 0 .5rem;
+  }
+
+  blockquote {
+    margin: -3rem 0 1.5rem;
+  }
+
+  ol {
+    margin-left: -1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: -.5rem;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
